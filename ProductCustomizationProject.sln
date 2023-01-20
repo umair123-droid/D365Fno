@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FC65038C-1B2F-41E1-A629-BED71D161FFF}") = "ProductCustomizationProject (USR) [ProductCustomization]", "ProductCustomizationProject\ProductCustomizationProject.rnrproj", "{0A9D7BED-0C0F-4FC2-872C-72CDF7C7CE57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A9D7BED-0C0F-4FC2-872C-72CDF7C7CE57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9D7BED-0C0F-4FC2-872C-72CDF7C7CE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBE6D844-F5B4-4451-AD22-39A9731B865B}
+	EndGlobalSection
+EndGlobal
